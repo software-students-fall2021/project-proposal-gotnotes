@@ -5,13 +5,13 @@ Proposal by H. Atacan Demir
 GotNotes is an online platform for college students to create communities around shared classes and share class notes.
 
 ### Why GotNotes?
-As college students, we have all spent hours in various note sharing websites like Chegg, CourseHero, etc. to find that *specific* document we need to study for an upcoming exam. 
+As college students, we have all spent hours in various note sharing websites like Chegg, CourseHero, etc. to find that *specific* document we need to study for an upcoming exam. <br /><br />
 How often did we find what we were looking for? <br />
-**Not that often.**
+**Not that often.** <br />
 How often were we able to create a community to ask and answer questions with our peers? <br />
-**Almost never.**
+**Almost never.**<br />
 Were we bombarded with ads that forced us to pay something to get something? <br />
-**Every Single Time!** 
+**Every Single Time!** <br /><br />
 
 You'll suffer no longer my friend, GotNotes is here to save you!
 
