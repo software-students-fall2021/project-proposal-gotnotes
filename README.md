@@ -36,6 +36,10 @@ These will be implemented:
 * file upload and download systems that supports jpeg, pdf, doc, docx, pages.
 * live chat rooms with websocket
 * easy to use, minimalist, modern, and mobile friendly layout with reactjs.
+* Login/Sign-up Page
+* Page with College and Course Selection lists
+* Page with subscribed courses and lists of documents shared to that course
+* Live Chat rooms page with the User's subscribed courses
 * authentication using google, facebook.
 * If time permits, we will convert the project to a react native project and use expo for development purposes. At the end, we could have a cross platform app and a website!!
 
