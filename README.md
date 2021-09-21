@@ -44,3 +44,5 @@ These will be implemented:
 * If time permits, we will convert the project to a react native project and use expo for development purposes. At the end, we could have a cross platform app and a website!!
 
 Definitely doable with a small team of developers.
+
+### What Are You Waiting For? JOIN THE TEAM NOW!!
